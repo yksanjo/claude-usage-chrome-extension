@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
+
+# Node modules (if we add build tools later)
+node_modules/
+
+# Ignore actual icon files (users generate their own)
+icons/*.png
+
+# But keep the directory and placeholder
+!icons/PLACE_ICONS_HERE.txt
