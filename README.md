@@ -1,5 +1,12 @@
 # claude-usage-chrome-extension
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/claude-usage-chrome-extension/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/claude-usage-chrome-extension/actions)
+![License](https://img.shields.io/github/license/yksanjo/claude-usage-chrome-extension)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/claude-usage-chrome-extension)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/claude-usage-chrome-extension)
+
 ## Detailed Description
 
 claude-usage-chrome-extension is maintained as an industry-grade software project with production-ready engineering practices.  
